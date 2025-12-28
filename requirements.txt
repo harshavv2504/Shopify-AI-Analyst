@@ -1,0 +1,29 @@
+# Web Framework
+fastapi
+uvicorn[standard]
+
+# HTTP Client
+httpx
+
+# AI/ML
+openai
+
+# Data Validation
+pydantic
+pydantic-settings
+
+# Configuration
+python-dotenv
+
+# Testing
+pytest
+pytest-asyncio
+hypothesis
+
+# Database
+sqlalchemy
+alembic
+psycopg2-binary
+
+# Security
+cryptography
